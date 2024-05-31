@@ -29,7 +29,7 @@ A responsive React.js application that displays live top headlines from various 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/mavidishu/NewsOne_Live_News_App.git
+   git clone https://github.com/Chandan2025/NewsOne_Live_News_App.git
    ```
 2. Navigate the directory:
    ```
